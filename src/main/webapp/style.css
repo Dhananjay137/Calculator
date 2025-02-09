@@ -1,0 +1,37 @@
+@charset "UTF-8";
+body{
+	font-size:40px;
+	text-align:center;
+	background: linear-gradient(to right,  blue,black);
+}
+h1,h3{
+	color:white;
+	margin:15px;
+}
+
+h2{
+	margin-top:100px;
+}
+
+#mainLogo{
+width: 20%;
+height:20%;
+margin-top: 20px;
+}
+input, button {
+  font-size:40px;
+  color: white;
+  border-radius: 5%;
+  background-color: black;
+  border: 2px solid white;
+}
+.links{
+	margin-top : 100px;
+}
+a{
+	text-decoration : none;
+	border : 2px solid white;
+	color: white;
+	padding:10px;
+	background-color: #606060;
+}
